@@ -1,16 +1,22 @@
 # PAM AI
 
-Business-focused AI assistant for workflow automation, task orchestration, and operational support.
+> Internal AI assistant for business workflow automation.
 
 ---
 
-## Features
+## Overview
 
-- AI Agents
+PAM AI is an operational assistant focused on automating internal business processes through intelligent workflows and conversational AI.
+
+---
+
+## Capabilities
+
 - Workflow Automation
-- Prompt Engineering
+- AI Agents
+- Task Orchestration
 - API Integration
-- Business Process Automation
+- Business Operations
 
 ---
 
@@ -18,8 +24,16 @@ Business-focused AI assistant for workflow automation, task orchestration, and o
 
 - n8n
 - LLMs
-- JavaScript
 - PostgreSQL
+- TypeScript
+
+---
+
+## Public Repository
+
+Only project documentation is published.
+
+All production assets remain proprietary.
 
 ---
 
