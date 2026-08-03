@@ -40,3 +40,12 @@ All production assets remain proprietary.
 ## Status
 
 🚧 Under Development
+
+
+---
+
+## Repository Scope
+
+This repository contains public documentation only.
+
+Source code, production workflows, prompts, infrastructure, and proprietary implementation details are intentionally excluded.
